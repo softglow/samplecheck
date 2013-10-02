@@ -1,3 +1,13 @@
+### Local ignores ###
+
+# SPC dumps and hex dumps of same
+*.spc
+*.xxd
+
+# vim recovery files
+.*.swp
+
+### GitHub Python ignore list follows ###
 *.py[cod]
 
 # C extensions
